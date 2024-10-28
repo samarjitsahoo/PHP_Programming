@@ -1,4 +1,4 @@
-# PHP_Programming
+# PHP Programming
 <div align="center">
 <img src="Assets/php-programming.png" width="200" height="120">
 </div>
